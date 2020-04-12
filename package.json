@@ -9,9 +9,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.4",
+    "lowdb": "^1.0.0",
+    "short-id": "0.1.0-1",
     "vue": "^2.6.11",
     "vue-router": "^3.1.5",
-    "vuex": "^3.1.2"
+    "vuescroll": "^4.15.0",
+    "vuex": "^3.1.2",
+    "vuex-persistedstate": "^2.7.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^4.2.0",
