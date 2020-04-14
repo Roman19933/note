@@ -16,7 +16,7 @@
       <BaseButton
         classBtn="home__top-btn"
         value="Сохранить изменения"
-        @defaultClick="openModal(`Сохранить изменения ?`,saveNoteToId)"
+        @defaultClick="saveNoteToId"
       />
       <BaseButton
         classBtn="home__top-btn"

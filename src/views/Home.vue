@@ -64,6 +64,7 @@ export default {
   },
   mounted() {
     this.render();
+    console.log(process.env.NODE_ENV);
   },
   components: {
     NoteItem,
